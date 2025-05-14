@@ -20,5 +20,5 @@ Passionate CSE student with hands-on experience in Java, MySQL, and full-stack d
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoranjaniS&layout=compact&theme=tokyonight)
 
 
-## ⚡ LeetCode Solving Status (Black):
+## ⚡ LeetCode Solving Status:
 ![LeetCode Solving Status](https://leetcard.jacoblin.cool/manoranjani_selvakumar?theme=dark&font=baloo&extension=true)
