@@ -1,6 +1,6 @@
-# Hi there, I'm Manoranjani Selvakumar 👋
+# Hi, I'm Manoranjani Selvakumar 👋
 
-## Aspiring Full Stack Developer | 🚀
+## Aspiring Full Stack Developer 
 
 Passionate CSE student with hands-on experience in Java, MySQL, and full-stack development. Strong problem-solving skills with a solid understanding of OOP. Actively seeking internship and job opportunities to apply and expand technical expertise in software development.
 
@@ -8,22 +8,17 @@ Passionate CSE student with hands-on experience in Java, MySQL, and full-stack d
 - HTML, CSS, JavaScript
 - MySQL
 - Web Development
-- AI-Driven Systems
+- SpringBoot,Maven
 
 ## 🔗 Connect with me:
 - [LinkedIn](https://linkedin.com/in/manoranjani_selvakumar)
 - [LeetCode](https://leetcode.com/u/manoranjani_selvakumar/)
 - [HackerRank](https://www.hackerrank.com/profile/manoranjanis2102)
 
-## 💡 My Mission
-I'm committed to creating AI systems that guide individuals towards their goals while providing personalized mentorship and support. The power of AI and web technologies inspires me to bring dynamic solutions that can truly make a difference.
-
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManoranjaniS&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoranjaniS&layout=compact&theme=tokyonight)
 
-## 🚀 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/manoranjani_selvakumar?theme=light&font=baloo&extension=false)
 
 ## ⚡ LeetCode Solving Status (Black):
 ![LeetCode Solving Status](https://leetcard.jacoblin.cool/manoranjani_selvakumar?theme=dark&font=baloo&extension=true)
