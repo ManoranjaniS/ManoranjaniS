@@ -1,9 +1,8 @@
-
 # Hi there, I'm Manoranjani Selvakumar 👋
 
-## Aspiring Full Stack Developer | AI-Driven Mentor Systems Innovator 🚀
+## Aspiring Full Stack Developer | 🚀
 
-I'm passionate about creating innovative solutions that bridge the gap between technology and real-world challenges. Currently, I'm on a journey to build AI-powered systems that can assist with goal tracking, productivity, and personalized mentorship.
+Passionate CSE student with hands-on experience in Java, MySQL, and full-stack development. Strong problem-solving skills with a solid understanding of OOP. Actively seeking internship and job opportunities to apply and expand technical expertise in software development.
 
 ## 💻 Technologies & Tools:
 - HTML, CSS, JavaScript
@@ -25,3 +24,6 @@ I'm committed to creating AI systems that guide individuals towards their goals 
 
 ## 🚀 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manoranjani_selvakumar?theme=light&font=baloo&extension=false)
+
+## ⚡ LeetCode Solving Status (Black):
+![LeetCode Solving Status](https://leetcard.jacoblin.cool/manoranjani_selvakumar?theme=dark&font=baloo&extension=true)
