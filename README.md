@@ -81,14 +81,6 @@ Passionate Computer Science Engineer with hands-on experience in designing and d
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManoranjaniS&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoranjaniS&layout=compact&theme=tokyonight)
-
----
-
 ## ⚡ LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manoranjani_selvakumar?theme=dark&font=baloo&extension=true)
